@@ -1,0 +1,3 @@
+<?
+$MESS['RSB_BOOKS_TABLE_BOOKS_NAME'] = 'Название';
+$MESS['RSB_BOOKS_TABLE_AUTHOR_ID'] = 'Автор';
